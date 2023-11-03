@@ -238,8 +238,8 @@ a{
 
 }
 
-@media screen and (max-width: 768px) {
-    .more-info-section img{
+@media screen and (max-width: 992px) {
+    .more-info-section .img-section img{
         display: none;
        
     }
