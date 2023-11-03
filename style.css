@@ -158,7 +158,7 @@ a{
     }
 
     .navbar-toggler-icon{
-        background-color: var( --bs-main-color);
+        background-color: var( --bs-dark-primary);
     }
 
 }
